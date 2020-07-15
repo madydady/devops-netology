@@ -8,5 +8,6 @@
 - файлы override.tf, override.tf.json и все файлы, имена которых заканчиваются на _override.tf или _override.tf.json
 - файлы .terraformrc и terraform.rc
 
+foobar
 
 
